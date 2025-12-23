@@ -132,7 +132,6 @@ nav a:hover {
   font-size: 5vw; /* scales with viewport width */
   background: linear-gradient(135deg, #38bdf8, #6366f1);
   -webkit-background-clip: text;
-
   line-height: 1.2;
 }
 
@@ -333,6 +332,7 @@ nav a:hover {
 .fa-java { color: #f89820; }
 .fa-database { color: #0ea5e9; }
 .fa-c { color: #00599c; }
+.fa-python {color: #3776ab;}
 
 
 /* ===== CONTACT ===== */
